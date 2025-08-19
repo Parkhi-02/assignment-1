@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Parkhi Singhal</h1>
+    <div id="aboutme">
+        <h4>ABOUT ME </h4>
+        <p>As a Computer Science enthusiast, I’m driven by the challenge of solving real-world 
+problems through technology. I specialize in frontend development and I’m comfortable 
+with a variety of programming languages like Java, C++. I enjoy bringing ideas to life by 
+designing efficient and user-friendly systems. What excites me most is the opportunity to 
+collaborate with diverse teams, learn from others, and continuously improve my craft. 
+I’m passionate about delivering tech solutions that not only work well but also create 
+meaningful, lasting value for user</p>
+<img src="" alt="">
+</div>
+    <div id="education">
+         <h4> EDUCATION  </h4>
+         <p>Bachelor of Engineering (B.E) in Computer Engineering from 
+Thapar Institute of Engineering & Technology, Patiala, Punjab, 
+147004(2023-2027)</p>
+ </div>
+<div id="skils">
+    <h4>SKILLS </h4>
+    <ul>
+        <li>AI AND ML</li>
+        <li> problem solving </li>
+    </ul>
+</div>
+<div id="projects">
+    <h4>BLOOD BANKMANGEMENT </h4>
+    <P>built a databse project for this
+    <a href="https://www.google.com">project link</a></P>
+
+</div>
+<div id="contact">
+    <h4>CONTACT DETAILS</h4>
+    <u><p>PHONE :+918864944396</p>
+    <p>EMAil: parkhisinghal02@gmail.com</p></u>
+</div>
+<footer>
+    Made by :Parkhi singhal
+</footer>
+
+
+
+</body>
+</html>
